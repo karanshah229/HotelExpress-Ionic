@@ -9,21 +9,17 @@ With HotelExpress, enjoy your next holiday with ease and hapiness.
 
 ## Features
 
-1. A Ionic - Angular application that works similar to Air Bnb  
-or Hotels.com
-2. The user can rent and/or book apartments, mansions, villas for  
-their next trip.
-3. Using native features like device camera, you can upload images  
-of the apartment for others to see
-4. Select the location your apartment with pin point accuracy  
-thanks to Google Maps
+1. A Ionic - Angular application that works similar to Air Bnb or Hotels.com
+2. The user can rent and/or book apartments, mansions, villas for their next trip.
+3. Using native features like device camera, you can upload images of the apartment for others to see
+4. Select the location your apartment with pin point accuracy thanks to Google Maps
 
 ---
 
 ### Technology / Libraries Learnt and Used:
 1. Ionic - To create the complete front end of the application
-2. Angular - To manage the state and work in conjunction with Ionic  
-to convert it into a Single Page Application (SPA)
+2. Angular - To manage the state and work in conjunction with Ionic to convert it  
+into a Single Page Application (SPA)
 3. Capacitor:
     i. To make use of native device features like:
     - Camera
