@@ -34,7 +34,7 @@ into a Single Page Application (SPA)
 
 1. Go to [hotelexpress.epizy.com](https://www.hotelexpress.epizy.com "HotelExpress - Find hotels and apartments for your next trip")  
 OR -----  
-2. Install apk from ''
+2. Install apk from ''  
 OR -----  
 3. Git clone the repository or alternatively download all the files and extract them
 4. Open terminal in the folder and run:
