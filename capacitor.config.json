@@ -1,0 +1,6 @@
+{
+  "appId": "com.paribnb.karansolves",
+  "appName": "Pair-BnB",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
