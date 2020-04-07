@@ -32,13 +32,14 @@ into a Single Page Application (SPA)
 
 ## Install Instructions
 
-1. Go to (https://www.hotelexpress.epizy.com "HotelExpress - Find hotels and apartments for your next trip")  
-OR -----  
-2. Install apk from ''
-OR -----  
+1. Go to [hotelexpress.epizy.com](https://www.hotelexpress.epizy.com "HotelExpress - Find hotels and apartments for your next trip")  
+----- OR -----  
+2. Install apk from ''  
+----- OR -----  
 3. Git clone the repository or alternatively download all the files and extract them
 4. Open terminal in the folder and run:
 > ionic serve  
+
 This is will automatically open up the application in browser.  
 
 Play around with the application - create bookings, rent apartments,  
@@ -48,11 +49,11 @@ delete your bookings.
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/add_offer.jpg "Add Offer")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/bookings.jpg "My Bookings")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/discover_places.jpg "Discover Places")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/my_offers.jpg "My Offers")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/side_nav_menu.jpg "Side Nav Menu")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/add_offer.jpg "Add Offer")
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/bookings.JPG "My Bookings")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/discover_places.JPG "Discover Places")
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/my_offers.JPG "My Offers")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/side_nav_menu.JPG "Side Nav Menu")
 
 ###### If you find a bug or want to suggest some improvements
 Take a pull request or email:
