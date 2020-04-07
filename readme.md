@@ -38,7 +38,7 @@ OR -----
 OR -----  
 3. Git clone the repository or alternatively download all the files and extract them
 4. Open terminal in the folder and run:
-> ionic serve
+> ionic serve  
 This is will automatically open up the application in browser.  
 
 Play around with the application - create bookings, rent apartments,  
@@ -48,14 +48,11 @@ delete your bookings.
 
 ## Screenshots
 
-The Game:
-![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/new_game.JPG "New Game")  
-![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/player_wins.JPG "Player Wins")  
-![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/game/dealer_wins.JPG "Dealer Wins")  
-
-Installation:
-![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/installer/1.JPG "Select install location")
-![alt text](https://github.com/karanshah229/BlackJack---Python-Game/blob/master/screenshots/installer/2.JPG "Double-click blackjack.exe file")
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/add_offer.jpg "Add Offer")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/bookings.jpg "My Bookings")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/discover_places.jpg "Discover Places")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/my_offers.jpg "My Offers")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/side_nav_menu.jpg "Side Nav Menu")  
 
 ###### If you find a bug or want to suggest some improvements
 Take a pull request or email:
