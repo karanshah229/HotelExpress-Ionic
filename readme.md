@@ -32,7 +32,7 @@ into a Single Page Application (SPA)
 
 ## Install Instructions
 
-1. Go to ['website'](https://www.hotelexpress.epizy.com "HotelExpress - Find hotels and apartments for your next trip")  
+1. Go to [hotelexpress.epizy.com](https://www.hotelexpress.epizy.com "HotelExpress - Find hotels and apartments for your next trip")  
 OR -----  
 2. Install apk from ''
 OR -----  
