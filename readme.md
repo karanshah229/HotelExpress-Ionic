@@ -48,11 +48,11 @@ delete your bookings.
 
 ## Screenshots
 
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/add_offer.JPG "Add Offer")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/add_offer.JPG "Add Offer")
 ![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/bookings.JPG "My Bookings")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/discover_places.JPG "Discover Places")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/discover_places.JPG "Discover Places")
 ![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/my_offers.JPG "My Offers")  
-![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/side_nav_menu.JPG "Side Nav Menu")  
+![alt text](https://github.com/karanshah229/HotelExpress-Ionic/blob/master/screenshots/side_nav_menu.JPG "Side Nav Menu")
 
 ###### If you find a bug or want to suggest some improvements
 Take a pull request or email:
