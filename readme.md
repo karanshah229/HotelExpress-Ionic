@@ -39,6 +39,7 @@ into a Single Page Application (SPA)
 3. Git clone the repository or alternatively download all the files and extract them
 4. Open terminal in the folder and run:
 > ionic serve  
+
 This is will automatically open up the application in browser.  
 
 Play around with the application - create bookings, rent apartments,  
