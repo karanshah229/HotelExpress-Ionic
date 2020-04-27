@@ -2,5 +2,6 @@
   "appId": "com.karansolves.hotelexpress",
   "appName": "HotelExpress",
   "bundledWebRuntime": false,
-  "webDir": "www"
+  "webDir": "www",
+  "windowsAndroidStudioPath": "G:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe"
 }
