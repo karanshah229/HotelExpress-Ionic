@@ -32,3 +32,6 @@ functions/pairbnb.json
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+
+# User Defined
+src/environments
